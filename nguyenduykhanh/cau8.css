@@ -1,0 +1,14 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+a{
+    display: inline-block;
+    min-width: 80px;
+    padding: 8px 16px;
+    border-radius: 8px;
+    color:white;
+    background-color: #1473e6;
+    font-size: 14px;
+    text-decoration: none;
+    text-align: center;
+}
